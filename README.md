@@ -13,6 +13,13 @@ b= ("Titulo")
 
 c= ("cuerpo del texto")
 
+x=("Interfaz de inicio")
+
+y=("Opciones")
+
+z=("Ajustes")
+
+
 #Se imprimen las variables en cuestion
 
 print(a,b,a)
@@ -21,4 +28,12 @@ print (a,c,a)
 
 print (" ")
 
-![image](https://github.com/user-attachments/assets/9b7ea154-4bcc-417e-9aab-424684ff850a)
+print (a, x, a)
+
+print (a, y, a)
+
+print (a, z, a)
+
+print(" ") 
+
+![image](https://github.com/user-attachments/assets/7caae31f-e5ef-44d6-a425-3aa2319a78fa)
